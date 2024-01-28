@@ -12,4 +12,13 @@ Please cite our paper if you find our work/code helpful!
       primaryClass={cs.CL}
 }
 ```
+## Setup
+```
+pip install -r requirements.txt
+```
+
+## Evaluation Result
+```
+python Evaluation/${FILE}
+```
 
