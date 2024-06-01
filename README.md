@@ -4,13 +4,13 @@ This repository provides prompts, LLM results and code implementation for our pa
 Please cite our paper if you find our work/code helpful!
 
 ```
-@article{Yue2023LargeLM,
-  title={Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning},
-  author={Murong Yue and Jie Zhao and Min Zhang and Liang Du and Ziyu Yao},
-  journal={ArXiv},
-  year={2023},
-  volume={abs/2310.03094},
-  url={https://api.semanticscholar.org/CorpusID:263671564}
+@inproceedings{
+yue2024large,
+title={Large Language Model Cascades with Mixture of Thought Representations for Cost-Efficient Reasoning},
+author={Murong Yue and Jie Zhao and Min Zhang and Liang Du and Ziyu Yao},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=6okaSfANzh}
 }
 ```
 
